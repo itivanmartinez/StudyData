@@ -1,0 +1,10 @@
+Networking$MyDesc$MyGoal$MyBlocker$MyDependency
+Training$MyDecp$Mygoal$MyBlocker$MyDependency
+Training$2$3$1$1
+Networking$1$1$1$1
+Networking$1$2$2$3
+Training$1$1$1$1
+Networking$1$2$2$3
+Networking$2$2$1$
+Networking$1$1$1$1
+Networking$1$1$1$1
